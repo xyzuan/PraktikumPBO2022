@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74c11149-7ce6-4570-8564-09662f94b445" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PBO2022_Java.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ml7exVxcXHjjq5azutS2YEG4Jd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "X:/Kuliah/Aslab/ModulPBO/PBO2022_Java/src/Modul3/Praktikum",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="X:\Kuliah\Aslab\ModulPBO\PBO2022_Java\src\Modul3\Praktikum" />
+      <recent name="X:\Kuliah\Aslab\ModulPBO\PBO2022_Java\src\Modul3\CodeLab" />
+      <recent name="X:\Kuliah\Aslab\ModulPBO\PBO2022_Java\src\Modul2\Praktikum" />
+      <recent name="X:\Kuliah\Aslab\ModulPBO\PBO2022_Java\src\Modul2\CodeLab" />
+      <recent name="X:\Kuliah\Aslab\ModulPBO\PBO2022_Java\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Modul 3 Praktikum">
+    <configuration name="Modul 1 CodeLab A" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Modul1.CodeLab.demoConv" />
+      <module name="PBO2022_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Modul 1 CodeLab B" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Modul1.CodeLab.demoCalcYearsOld" />
+      <module name="PBO2022_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Modul 1 Praktikum" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Modul1.Praktikum.BookSystem" />
+      <module name="PBO2022_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Modul 2 CodeLab" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Modul2.CodeLab.com.modul2.codelab.Main" />
+      <module name="PBO2022_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Modul 2 Praktikum" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Modul2.Praktikum.Main" />
+      <module name="PBO2022_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Modul 3 CodeLab" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Modul3.CodeLab.Modul3Pratice" />
+      <module name="PBO2022_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Modul 3 Praktikum" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Modul3.Praktikum.User" />
+      <module name="PBO2022_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Modul 1 CodeLab A" />
+      <item itemvalue="Application.Modul 1 CodeLab B" />
+      <item itemvalue="Application.Modul 1 Praktikum" />
+      <item itemvalue="Application.Modul 2 CodeLab" />
+      <item itemvalue="Application.Modul 2 Praktikum" />
+      <item itemvalue="Application.Modul 3 CodeLab" />
+      <item itemvalue="Application.Modul 3 Praktikum" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74c11149-7ce6-4570-8564-09662f94b445" name="Changes" comment="" />
+      <created>1678330417274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678330417274</updated>
+      <workItem from="1678330417626" duration="1278000" />
+      <workItem from="1678331783817" duration="523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
